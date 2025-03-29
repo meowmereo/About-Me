@@ -12,5 +12,5 @@ Hi, I'm Hữu Bằng, a student at Ho Chi Minh University of Technology and Educ
 - Languages: Vietnamese (Native), English (Basic)
 
 ## Contact Me
-mailto:vbgaminh6@gmail.com
+mailto:omeowmereo@gmail.com
 
