@@ -5,12 +5,6 @@ Hi, My real name is Hữu Bằng, a student at Ho Chi Minh University of Technol
 
 - **University**: Ho Chi Minh University of Technology and Education (HCMUTE)
 - **Major**: Thermal Engineering Technology.
-
-## Skills
-- Programming Languages: C++, C# (beginner)
-- Software: AutoCAD, ANSYS, Blender, Microsoft Word, Excel, PowerPoint, Visual Studio Code, Matlab
-- Languages: Vietnamese (Native), English (Basic)
-
 ## Contact Me
 mailto:omeowmereo@gmail.com
 
